@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+.bodyClass 
+{
+  color:#000;
+  background-color:#fff;
+}
+
+.TextSmall{
+	font-color:red;
+}
+
+.error{
+	font-family:"Times New Roman", Times, serif;
+	font-size:1em;
+	color:red;
+}
